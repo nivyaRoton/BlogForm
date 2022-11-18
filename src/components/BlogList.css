@@ -1,0 +1,30 @@
+
+.container {
+    position: relative;
+  }
+  
+
+  .overlay {
+    position: absolute; 
+    bottom: 0; 
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.5);
+    width: 100%;
+    transition: .5s ease;
+    opacity:1;
+    left:0%;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+  }
+  .del-btn{
+    text-align: right;
+    
+  }
+  .theme{
+    background-color: black;
+    color:white;
+  }
+
+
+  
